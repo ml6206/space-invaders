@@ -1,0 +1,37 @@
+Mengxun Lin
+Professor Mante
+CS-UY 1114 DLEC
+
+The state of my work Space Invaders:
+    My project is complete. The game works, but one problem left is that
+    it runs slowly. I removed unnecessary codes and checked every function, but
+    the program runs slower as I add more bullets to the screen. My theory
+    is that using one turtle to perform all functions in the program made the
+    animation run slow.
+
+    My project meets the requirements specified in the project demo. The enemies
+    move in the same type of pattern as shown in the demo. The space ship is
+    controlled by the left and right arrow keys, and pressing the space key will
+    cause the ship to shoot a single bullet.
+
+    I added a status score of the number of enemies left as an additional
+    feature.
+
+    I'm not fully satisfied with the final results. There is still room left for
+    improvement, but it meets the requirements.
+
+My retrospective on the development process:
+    Like the first status report, I think understanding the big picture and not
+    making assumptions was the biggest challenge for me. But I learned not to do
+    that and focused on making diagrams of the program's components on paper.
+    It helped me to understand the connections in the program.
+
+    I don't think any part of the assignement was easy, but I learned a lot and
+    am proud of what I accomplished in this project.
+
+Additional thoughts or questions:
+    I've asked my professor, the PTC, and my TAs on how my program can run
+    not slowly, but faster and smoothy. They suggested lowering the value of
+    time.sleep in the main function. I know that anything in that function
+    shouldn't be changed so I'm still confused on what I should do. If you can,
+    please look at my program and send me feedback.
